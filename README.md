@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-*Contact me: [telegram](https://t.me/vivishko/) *
+*Contact me: [telegram](https://t.me/vivishko/)*
 
 <!--
 **viloloshka/viloloshka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
