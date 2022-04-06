@@ -1,18 +1,19 @@
 ### Hi there 👋
+# 🦔🗺️👨‍💻🎮🎻🪙
 
-*Contact me: [telegram](https://t.me/vivishko/)*
+
+I'm a 
+* Student (doing my Master Degree; a major is Applied Math and Computer Science)
+* Data-girl (was Big Data Analyst at product company with over 100Gb per day; analysis of user behavior hypotheses, A/B-testing, development of dashboards for systematization of information)
+* Programmer (and [not only](https://t.me/runaway_with_me) code writer)
+
+Text me if you have any idea to develop something together!
+
+*Contact me: [telegram](https://t.me/vivishko/) / [twitter](https://twitter.com/ViolaZaletova) / [linkedin](https://www.linkedin.com/in/violazaletova/)*
 
 <!--
-**viloloshka/viloloshka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+more ideas:
+https://habr.com/ru/post/649363/
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Contact me if you read this: viloloshka8@gmail.com
 -->
