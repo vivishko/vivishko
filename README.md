@@ -10,6 +10,8 @@ Text me if you have any idea to develop something together!
 
 *Contact me: [telegram](https://t.me/vivishko/) / [twitter](https://twitter.com/ViolaZaletova) / [linkedin](https://www.linkedin.com/in/violazaletova/)*
 
+Also my CVs: [eng](https://github.com/vivishko/articles/blob/main/cv-eng/cv-eng.md), [ru](https://github.com/vivishko/articles/blob/main/cv/cv.md)
+
 <!--
 more ideas:
 https://habr.com/ru/post/649363/
