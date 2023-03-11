@@ -1,10 +1,10 @@
 # 🦔🗺️👨‍💻🎮🎻🪙
 
-
-I'm a 
+[... someday i'll update this description]
+<!-- I'm a 
 * Student (doing my Master Degree; the major - Applied Math and Computer Science)
 * Data-girl (ex-Big Data Analyst at product company with over 100Gb user info per day; analysis of user behavior hypotheses, A/B-testing, development of dashboards for systematization of information)
-* Programmer (and [not only](https://t.me/runaway_with_me) code writer)
+* Programmer (and [not only](https://t.me/runaway_with_me) code writer) -->
 
 Text me if you have any idea to develop something together!
 
